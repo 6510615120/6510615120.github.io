@@ -1,9 +1,8 @@
-# 
+# MY PROFILE
 
-## List of Content
-* Information
-* Hobby
-* Favorite
-    1. Anime
-    1. Food
-    1. Video Game
+![PIC]("https://i.imgur.com/Nhpip7N.png")
+
+Name: Tanapat Sa-nguantud
+Student ID: 6510615120
+
+[Github.io]("https://6510615120.github.io/")
